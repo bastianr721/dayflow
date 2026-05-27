@@ -1,0 +1,20 @@
+{
+  "name": "DayFlow",
+  "short_name": "DayFlow",
+  "description": "Zeitstrukturierung & Notion-Integration",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#f5f4f0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%230f0f0d'/><circle cx='256' cy='230' r='130' fill='none' stroke='white' stroke-width='18'/><polyline points='256,160 256,230 310,280' fill='none' stroke='white' stroke-width='18' stroke-linecap='round'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "de"
+}
